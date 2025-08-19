@@ -6,5 +6,5 @@ print("The sum of a and b is:",sum)
 print("**************************************")
 name = input ("Kencho Dorji")
 age = input (18)
-print("you are" , name "and you are" , age "years old")
+print (f"you are + name and you are+ age years old")
 

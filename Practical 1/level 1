@@ -1,0 +1,15 @@
+# Area of a rectangle
+length = 10
+width = 7
+area = length * width
+print (f"The area of a rectangle is: {area}")
+# Determining even or odd
+number = int(145)
+if number %2 == 0:
+    print (f"{number} is even.")
+else:
+    print (f"{number} is odd.")
+# converting celsius to fahrenheit
+celsius = float(38.5)
+fahrenheit = (celsius * 9/5) + 32
+print(f"{celsius} is equal to {fahrenheit}")
