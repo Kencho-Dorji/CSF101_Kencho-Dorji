@@ -28,3 +28,5 @@ def binary_search(arr, target):
 test_list_sorted = sorted(test_list)
 result = binary_search(test_list_sorted, 6)
 print(f"Binary Search: Index of 6 in sorted list is {result}")
+
+
